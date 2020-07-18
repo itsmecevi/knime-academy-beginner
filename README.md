@@ -14,9 +14,9 @@
 
 ## Slide: [Data-Driven Impact](https://www.canva.com/design/DAECRX1XUqM/YTKBGJUGmpKLscGY8Nr9zw/view?utm_content=DAECRX1XUqM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-## Slide: [Open Source 101](https://docs.google.com/presentation/d/1551CT5vRjQ8oK9KzEoXT5W375pwE0I6E-RrwLgTegm4/edit?usp=sharing)
+## Slide: [Open Source 101]()
 
-## Slide: [Analytics 101](https://docs.google.com/presentation/d/1551CT5vRjQ8oK9KzEoXT5W375pwE0I6E-RrwLgTegm4/edit?usp=sharing)
+## Slide: [Analytics 101]()
 
 * Statistics
 * Data Mining
@@ -26,7 +26,7 @@
 * Deep Learning
 * Neural Network
 
-## Slide: [Knime-Academy-Beginner](https://docs.google.com/presentation/d/1551CT5vRjQ8oK9KzEoXT5W375pwE0I6E-RrwLgTegm4/edit?usp=sharing)
+## Slide: [Knime-Academy-Beginner]()
 
 * Read Data
 * Transform
