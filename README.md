@@ -40,6 +40,13 @@
 * C
 * D
 
+## Solutions
+
+* Read Data
+* Transform
+* Analyze
+* Deploy (visualize)
+
 # Preferences :
 
 * [knime.com](https://www.knime.com/)
