@@ -26,6 +26,9 @@
 * Deep Learning
 * Neural Network
 
+
+## Slide: [Why Knime-SWOT]()
+
 ## Slide: [Knime-Academy-Beginner]()
 
 * Read Data
