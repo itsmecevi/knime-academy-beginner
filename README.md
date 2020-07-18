@@ -47,6 +47,15 @@
 * Analyze
 * Deploy (visualize)
 
+## Industry Use Case
+
+* Finance
+* Retail
+* Government
+* Pharma / Health Care
+* Manufacturing
+* Social Media Analytics
+
 # Preferences :
 
 * [knime.com](https://www.knime.com/)
