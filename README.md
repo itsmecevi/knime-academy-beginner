@@ -16,6 +16,8 @@
 
 ## Slide: [Open Source 101]()
 
+## Slide: [Code Free Data Science 101]
+
 ## Slide: [Analytics 101]()
 
 * Statistics
