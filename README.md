@@ -20,9 +20,9 @@ _____
 
 ### Slide: [Knime 101-SWOT]()
 
-
-
 ### Fazit/Connecting the dots?
+
+_____
 
 ### Slide: [Analytics 101]()
 
