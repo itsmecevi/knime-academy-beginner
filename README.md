@@ -12,15 +12,17 @@
 <span>&#128201;</span> KNIME Technical Spesifications-> [Click Here](https://www.knime.com/software-overview)
 
 
-## Slide: [Data-Driven Impact](https://www.canva.com/design/DAECRX1XUqM/YTKBGJUGmpKLscGY8Nr9zw/view?utm_content=DAECRX1XUqM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+### Slide: [Data-Driven Impact](https://www.canva.com/design/DAECRX1XUqM/YTKBGJUGmpKLscGY8Nr9zw/view?utm_content=DAECRX1XUqM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-## Slide: [Open Source 101](https://www.canva.com/design/DAEEGZUwb64/rQVeq00zLryS7EUuOlpWnQ/view#3)
+### Slide: [Open Source 101](https://www.canva.com/design/DAEEGZUwb64/rQVeq00zLryS7EUuOlpWnQ/view#3)
 
-## Slide: [Knime 101-SWOT]()
+### Slide: [Knime 101-SWOT]()
 
-## Slide: [Fazit/Connecting the dots]()
+_____
 
-## Slide: [Analytics 101]()
+### Fazit/Connecting the dots?!
+
+### Slide: [Analytics 101]()
 
 * Statistics
 * Data Mining
@@ -33,28 +35,28 @@
 
 
 
-## Slide: [Knime-Academy-Beginner]()
+### Slide: [Knime-Academy-Beginner]()
 
 * Read Data
 * Transform
 * Analyze
 * Deploy (visualize)
 
-## Dataset:
+### Dataset:
 
 * A
 * B
 * C
 * D
 
-## Solutions
+### Solutions
 
 * Read Data
 * Transform
 * Analyze
 * Deploy (visualize)
 
-## Industry Use Case
+### Industry Use Case
 
 * Finance
 * Retail
