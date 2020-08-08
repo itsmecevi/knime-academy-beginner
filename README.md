@@ -11,6 +11,8 @@
 
 <span>&#128201;</span> KNIME Technical Spesifications-> [Click Here](https://www.knime.com/software-overview)
 
+_____
+
 
 ### Slide: [Data-Driven Impact](https://www.canva.com/design/DAECRX1XUqM/YTKBGJUGmpKLscGY8Nr9zw/view?utm_content=DAECRX1XUqM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
@@ -18,7 +20,7 @@
 
 ### Slide: [Knime 101-SWOT]()
 
-_____
+
 
 ### Fazit/Connecting the dots?!
 
