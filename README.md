@@ -22,7 +22,7 @@ _____
 
 
 
-### Fazit/Connecting the dots?!
+### Fazit/Connecting the dots?
 
 ### Slide: [Analytics 101]()
 
