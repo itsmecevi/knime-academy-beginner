@@ -14,9 +14,11 @@
 
 ## Slide: [Data-Driven Impact](https://www.canva.com/design/DAECRX1XUqM/YTKBGJUGmpKLscGY8Nr9zw/view?utm_content=DAECRX1XUqM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-## Slide: [Open Source 101]()
+## Slide: [Open Source 101](https://www.canva.com/design/DAEEGZUwb64/rQVeq00zLryS7EUuOlpWnQ/view#3)
 
-## Slide: [Code Free Data Science 101]()
+## Slide: [Knime 101-SWOT]()
+
+## Slide: [Fazit/Connecting the dots]()
 
 ## Slide: [Analytics 101]()
 
@@ -29,7 +31,7 @@
 * Neural Network
 
 
-## Slide: [Why Knime-SWOT]()
+
 
 ## Slide: [Knime-Academy-Beginner]()
 
