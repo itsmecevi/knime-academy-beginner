@@ -19,7 +19,7 @@ _____
 
 ### Slide: [Open Source 101](https://docs.google.com/presentation/d/1t1q5gDnp0LbhZWv-CoSLeZectzD3xlDd69UftJ6IQ58/edit?usp=sharing)
 
-### Slide: [Knime 101-SWOT]()
+### Slide: [Knime 101]()
 
 ### Big Question: Connecting the dots?
 
