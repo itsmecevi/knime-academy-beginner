@@ -13,13 +13,13 @@
 _____
 
 
-### Slide: [Data-Driven Impact-X](https://www.canva.com/design/DAECRX1XUqM/YTKBGJUGmpKLscGY8Nr9zw/view?utm_content=DAECRX1XUqM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+### Slide: [Data-Driven Impact](https://docs.google.com/presentation/d/1D7AFD4BJMabfZOxsS94oRfcmbjenr-3kt9HWxvPH9WY/edit?usp=sharing)
 
 ### Slide: [Open Source 101](https://docs.google.com/presentation/d/1t1q5gDnp0LbhZWv-CoSLeZectzD3xlDd69UftJ6IQ58/edit?usp=sharing)
 
 ### Slide: [Knime 101-SWOT]()
 
-### Fazit/Connecting the dots?
+### Connecting the dots?
 
 _____
 
