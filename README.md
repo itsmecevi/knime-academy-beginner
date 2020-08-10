@@ -21,7 +21,7 @@ _____
 
 ### Slide: [Knime 101-SWOT]()
 
-### Connecting the dots?
+### Big Question: Connecting the dots?
 
 _____
 
