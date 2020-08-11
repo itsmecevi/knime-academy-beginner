@@ -10,7 +10,7 @@
 
 <span>&#128201;</span> KNIME Technical Spesifications-> [Click Here](https://www.knime.com/knime-analytics-platform)
 
-<span>&#128302;</span> Duration: 8 hours
+<span>&#128302;</span> Duration: 8 hours (2 days)
 
 
 
